@@ -2,6 +2,8 @@
 
 Welcome to your team's **gold standard** documentation reference repository! This repository provides a complete blueprint for organizing technical documentation using the **Diataxis framework**.
 
+**🎯 New here?** Jump straight to the **[Blog_Engine_Example/](./Blog_Engine_Example/)** - a complete, practical sample showing the Diataxis framework in action for a real-world project.
+
 ## 📚 What is Diataxis?
 
 Diataxis is a systematic approach to technical documentation authoring that organizes content into four distinct categories based on user needs and context. Created by Daniele Procida, it helps teams create documentation that is both comprehensive and easy to navigate.
@@ -49,6 +51,21 @@ Diataxis is a systematic approach to technical documentation authoring that orga
 - **Analogy**: An essay on the history of cooking
 - **Focus**: Understanding concepts and design decisions
 - **Example**: "Understanding Microservices Architecture"
+
+---
+
+## 💡 See It in Action
+
+**Want to see Diataxis in practice?** Check out the **[Blog_Engine_Example/](./Blog_Engine_Example/)** folder - a complete, real-world example of a project documented using the Diataxis framework.
+
+This practical sample demonstrates:
+- ✅ How to organize documentation for a realistic multi-platform application
+- ✅ All four Diataxis quadrants working together (Tutorials, How-To, Reference, Explanation)
+- ✅ Production-ready content (not just placeholders)
+- ✅ Best practices for technical writing
+- ✅ Documentation for multiple roles (developers, QA, DevOps, management)
+
+**👉 [Explore the Blog Engine Example →](./Blog_Engine_Example/README.md)**
 
 ---
 
