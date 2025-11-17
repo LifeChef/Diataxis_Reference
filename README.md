@@ -320,6 +320,6 @@ Questions about documentation standards? Contact the documentation team or open 
 
 ---
 
-*Last Updated: Nov 4, 2025*  
-*Framework Version: Diataxis 1.0*  
-*Repository Maintainer: Documentation Team*
+*Last Updated: Nov 17, 2025*  
+*Framework Version: Diataxis 1.3*  
+*Repository Maintainer: Jay A. Leon
