@@ -76,7 +76,7 @@ code [category]/README.md
 - [ ] Placed in correct folder
 - [ ] Updated category README
 - [ ] All code examples tested
-- [ ] Links to related docs added
+- [ ] Links to related docs and relevant Jira tickets added (where applicable)
 - [ ] Follows style guide
 
 ---

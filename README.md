@@ -81,6 +81,7 @@ This practical sample demonstrates:
 ├── QUICK_REFERENCE.md                 # Quick reference guide
 ├── VALIDATION_CHECKLIST.md            # Documentation validation checklist
 ├── IMPLEMENTATION_COMPLETE.md         # Implementation status and usage guide
+├── NEW_PROJECT_START_HERE.md          # Bootstrap guide for brand-new projects
 │
 ├── templates/                         # Blank templates for each doc type
 │   ├── tutorial-template.md
@@ -151,6 +152,18 @@ The `/Blog_Engine_Example/` folder contains a complete reference implementation 
 
 ## 🚀 Quick Start for Documentation Authors
 
+### Starting a New Project
+
+If you are setting up a **brand-new project** using this repository as a template:
+
+- Begin with **`NEW_PROJECT_START_HERE.md`** for the step-by-step bootstrap guide.
+- Ensure each feature has documentation under `features/<feature-id>/` (requirements, design, testing).
+- For every feature, **cross-link documentation and Jira**:
+  - In docs, include the primary Jira issue/epic (e.g., in a `## Jira` section or in the References block).
+  - In Jira, link back to the relevant documentation files (repository URLs).
+
+This keeps written descriptions and tracked work connected, and prevents drift between tickets and documentation.
+
 ### Step 1: Identify the Type of Documentation Needed
 
 Ask yourself:
@@ -207,7 +220,7 @@ Before submitting documentation, ensure:
 - [ ] Structure follows the appropriate template
 - [ ] Tone matches the document type (imperative for tutorials/how-tos, neutral for reference/explanation)
 - [ ] Code examples are tested and working
-- [ ] Links to related documentation are included
+- [ ] Links to related documentation and relevant Jira tickets are included
 - [ ] Document follows style guide conventions
 - [ ] Spelling and grammar are correct
 
